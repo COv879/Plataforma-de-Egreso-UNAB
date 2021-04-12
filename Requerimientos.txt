@@ -1,0 +1,8 @@
+-Diagramas de Clases, Componentes, Deployment.
+-Modelo de Base de Datos
+-Modelos de Casos de Uso
+-Requerimientos Funcionales y No Funcionales
+-Mapa de Historia
+-Trazabilidad de Historias de Usuario
+-Diagrama de Propuesta
+-Documento de Vision y Caso de Uso
